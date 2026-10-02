@@ -38,32 +38,30 @@ handling of internal company documents.
 9.  ## Screenshots
 
 ### 1. Company Hub Documents
-![Company Hub Documents](Company Hub Documents.jpg)
+![Company Hub Documents](Company%20Hub%20Documents.jpg)
 
 ### 2. Company Hub Portal
-![Company Hub Portal](Company Hub Portal.jpg)
+![Company Hub Portal](Company%20Hub%20Portal.jpg)
 
 ### 3. Power Automate
-![Power Automate](Power Automate.jpg)
+![Power Automate](Power%20Automate.jpg)
 
 ### 4. Portal Document Upload
-![Portal Document Upload](Portal Document Upload.jpg)
+![Portal Document Upload](Portal%20Document%20Upload.jpg)
 
 ### 5. By Using Power Automate Shared Doc Uploaded in Company Docs
-![By Using Power Automate Shared Doc Uploaded in Company Docs](By Using Power Automate Shared Doc Uploaded in Company Docs.jpg)
+![By Using Power Automate Shared Doc Uploaded in Company Docs](By%20Using%20Power%20Automate%20Shared%20Doc%20Uploaded%20in%20Company%20Docs.jpg)
 
 ### 6. Microsoft Purview
-![Microsoft Purview](Microsoft Purview.jpg)
+![Microsoft Purview](Microsoft%20Purview.jpg)
 
 ### 7. HR Policy Agent Created
-![HR Policy Agent Created](HR Policy Agent Created.jpg)
+![HR Policy Agent Created](HR%20Policy%20Agent%20Created.jpg)
 
 ### 8. Asking Agent to Policy Details
-![Asking Agent to Policy Details](Asking Agent to Policy Details.jpg)
+![Asking Agent to Policy Details](Asking%20Agent%20to%20Policy%20Details.jpg)
 
 ### 9. Applying Sensitivity Label to Protect Confidential Doc
-![Applying Sensitivity Label to Protect Confidential Doc](Applying Sensitivity Label to Protect Confidential Doc.jpg)
-
-
+![Applying Sensitivity Label to Protect Confidential Doc](Applying%20Sensitivity%20Label%20to%20Protect%20Confidential%20Doc.jpg)
 
 
