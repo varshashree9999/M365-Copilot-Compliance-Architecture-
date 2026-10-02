@@ -35,4 +35,32 @@ handling of internal company documents.
 7. **Data Governance & Compliance**: Enforced strict security barriers and
 8.  Purview sensitivity labels to protect sensitive executive-level content.
 
----
+## Screenshots
+
+# 1. Company Hub Documents
+![Company Hub Documents](Company-Hub-Documents.jpg)
+
+# 2. Company Hub Portal
+![Company Hub Portal](Company-Hub-Portal.jpg)
+
+# 3. Power Automate
+![Power Automate](Power-Automate.jpg)
+
+# 4. Portal Document Upload
+![Portal Document Upload](Portal-Document-Upload.jpg)
+
+# 5. By Using Power Automate Shared Doc Uploaded in Company Docs
+![By Using Power Automate Shared Doc Uploaded in Company Docs](By-Using-Power-Automate-Shared-Doc-Uploaded-in-Company-Docs.jpg)
+
+# 6. Microsoft Purview
+![Microsoft Purview](Microsoft-Purview.jpg)
+
+# 7. HR Policy Agent Created
+![HR Policy Agent Created](HR-Policy-Agent-Created.jpg)
+
+# 8. Asking Agent to Policy Details
+![Asking Agent to Policy Details](Asking-Agent-to-Policy-Details.jpg)
+
+# 9. By Applying Sensitivity Label to Protect Confidential Doc
+![By Applying Sensitivity Label to Protect Confidential Doc](By-Applying-Sensitivity-Label-to-Protect-Confidential-Doc.jpg)
+
