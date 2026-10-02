@@ -61,7 +61,7 @@ handling of internal company documents.
 ### 8. Asking Agent to Policy Details
 ![Asking Agent to Policy Details](Asking%20Agent%20to%20Policy%20Details.jpg)
 
-### 9. Applying Sensitivity Label to Protect Confidential Doc
-![Applying Sensitivity Label to Protect Confidential Doc](Applying%20Sensitivity%20Label%20to%20Protect%20Confidential%20Doc.jpg)
+### 9. Applying Sensitivity Label to Protect confidential Doc
+![Applying Sensitivity Label to Protect confidential Doc](Applying%20Sensitivity%20Label%20to%20Protect%20confidential%20Doc.jpg)
 
 
