@@ -53,7 +53,7 @@ handling of internal company documents.
 ![By Using Power Automate Shared Doc Uploaded in Company Docs](By%20Using%20Power%20Automate%20Shared%20Doc%20Uploaded%20in%20Company%20Docs.jpg)
 
 ### 6. Microsoft purview
-![Microsoft Purview](Microsoft%20Purview.jpg)
+![Microsoft Purview](Microsoft%20purview.jpg)
 
 ### 7. HR Policy Agent Created
 ![HR Policy Agent Created](HR%20Policy%20Agent%20Created.jpg)
