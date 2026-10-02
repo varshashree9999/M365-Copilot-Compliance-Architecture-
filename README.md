@@ -1,4 +1,4 @@
-# Secure M365 Copilot Deployment and Compliance Architecture
+# M365 Copilot Compliance Architecture.
 
 An enterprise-grade Microsoft 365 solution integrating secure 
 AI grounding, automated document routing, and data governance 
